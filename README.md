@@ -5,7 +5,7 @@
 
 👋Hi! My name is Paulo Henrique and i'm a fullstack developer💻
 
-- 👨‍💻 Currently working at **Icone Impresarial**
+- 👨‍💻 Currently working at Icone Impresarial
 - 🛠 Studying and working with React, Node.js and React Native
 - 🌎 Brazil, Minas Gerais
 - 🧑 21 years old
