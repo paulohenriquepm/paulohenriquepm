@@ -8,7 +8,7 @@
 - 👨‍💻 Currently working at Icone Impresarial
 - 🛠 Studying and working with React, Node.js and React Native
 - 🌎 Brazil, Minas Gerais
-- 🧑 21 years old
+- 🧑 22 years old
 - 🌌 Passionate about science 
 - 🎧 Lover of good music
 
