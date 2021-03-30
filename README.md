@@ -1,12 +1,11 @@
 # Paulo Henrique
 
-[![Gmail Badge](https://img.shields.io/badge/-paulo.henriquepm@outlook.com-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:paulo.henriquepm@outlook.com)](mailto:paulo.henriquepm@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-PauloHenrique-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohenriquepm/)](https://www.linkedin.com/in/paulohenriquepm/) 
 
-👋Hi! My name is Paulo Henrique and i'm a fullstack developer💻
+👋Hi! My name is Paulo Henrique and i'm a fullstack developer 💻
 
 - 👨‍💻 Currently working at GeekHunter
-- 🌎 Brazil, Minas Gerais
+- 🌎 Brazil
 - 🧑 22 years old
 - 🌌 Passionate about science 
 - 🎧 Lover of good music
