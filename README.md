@@ -6,7 +6,7 @@
 
 - 👨‍💻 Currently working at GeekHunter
 - 🌎 Brazil
-- 🧑 23 years old
+- 🧑 24 years old
 - 🌌 Passionate about science 
 - 🎧 Lover of good music
 
