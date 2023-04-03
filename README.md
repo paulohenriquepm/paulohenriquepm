@@ -1,6 +1,6 @@
 👋Hi! My name is Paulo Henrique and I'm a Software Engineer 💻
 
-- 👨‍💻 Currently working at ClickGUARD
+- 👨‍💻 Currently working at [ClickGUARD](https://www.clickguard.com/)
 - 🌎 Brazil
 - 🧑 24 years old
 - 🌌 Passionate about science 
