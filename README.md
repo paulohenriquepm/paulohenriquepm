@@ -1,14 +1,13 @@
-# Paulo Henrique
+👋Hi! My name is Paulo Henrique and I'm a Software Engineer 💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-PauloHenrique-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulohenriquepm/)](https://www.linkedin.com/in/paulohenriquepm/) 
-
-👋Hi! My name is Paulo Henrique and i'm a fullstack developer 💻
-
-- 👨‍💻 Currently working at GeekHunter
+- 👨‍💻 Currently working at ClickGUARD
 - 🌎 Brazil
 - 🧑 24 years old
 - 🌌 Passionate about science 
 - 🎧 Lover of good music
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/paulohenriquepm/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:henrique.paulopm@gmail.com)
 
 <!--
 
