@@ -2,7 +2,7 @@
 
 - 👨‍💻 Currently working at [ClickGUARD](https://www.clickguard.com/)
 - 🌎 Brazil
-- 🧑 24 years old
+- 🧑 25 years old
 - 🌌 Passionate about science 
 - 🎧 Lover of good music
 
