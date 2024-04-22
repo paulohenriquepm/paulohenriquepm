@@ -1,6 +1,6 @@
 👋Hi! My name is Paulo Henrique and I'm a Software Engineer 💻
 
-- 👨‍💻 Currently working at [ClickGUARD](https://www.clickguard.com/)
+- 👨‍💻 Currently working at [Nutrisense](https://www.nutrisense.io/)
 - 🌎 Brazil
 - 🧑 25 years old
 - 🌌 Passionate about science 
