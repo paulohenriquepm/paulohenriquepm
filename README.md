@@ -2,7 +2,6 @@
 
 - 👨‍💻 Currently working at [Nutrisense](https://www.nutrisense.io/)
 - 🌎 Brazil
-- 🧑 25 years old
 - 🌌 Passionate about science 
 - 🎧 Lover of good music
 
